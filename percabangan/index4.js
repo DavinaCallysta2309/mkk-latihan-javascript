@@ -1,4 +1,4 @@
-// soal no 3
+// soal no 3 percabangan menengah
 let uts = prompt('masukan nilai uts');
 let uas = prompt('masukan nilai uas');
 let tugas = prompt('masukan nilai tugas');

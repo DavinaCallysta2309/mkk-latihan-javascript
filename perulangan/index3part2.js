@@ -1,7 +1,8 @@
-// soal no 2
+// soal 4 perulangan dasar
 let batasAwal = parseInt(prompt("Masukkan batas awal: "));
 let batasAkhir = parseInt(prompt("Masukkan batas akhir: "));
-
-for (let i = batasAwal; i <= batasAkhir; i++) {
-    alert(i);
+for (let a = batasAwal; a <= batasAkhir; a++) {
+    if (a % 5 == 0) {
+       alert(a);
+    }
 }

@@ -1,4 +1,4 @@
-// soal no 6
+// soal no 6 percabangan menengah
 function hitungHariKe(tanggal, bulan) {
     let hariKe = tanggal; 
     if (bulan > 1) hariKe += 31; // Januari

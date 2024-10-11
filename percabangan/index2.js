@@ -1,4 +1,4 @@
-// soal 4
+// soal 4 percabangan menengah
 let x = prompt('masukan angka pertama');
 let y = prompt('masukan angka kedua');
 let z = prompt('masukan angka ketiga');
